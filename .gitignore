@@ -3,3 +3,7 @@
 *.tfstate
 *.tfstate.*
 *.tfvars
+.terraformrc
+terraform.rc
+crash.log
+.DS_store
